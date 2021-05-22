@@ -19,6 +19,8 @@ output:
   postcards::onofre
 ---
  
-We're excited to announce the second iteration of the _Independent Summer Statistics Community: Beyond Coursework_. Through this community, Department of Statistical Sciences student will have opportunities to build their professional statistical portfolio, connect with other students, increase their career preparedness and explore options.
+_May 2021_ 
 
-Who is it for? All undergraduate students in a Department of Statistical Sciences (UTSG) PoST (including those about to graduate) or who took STA130 in Fall 2020/Winter 2021.
+We're excited to announce the second iteration of the _Independent Summer Statistics Community: Beyond Coursework_. Through this community, Department of Statistical Sciences students will have opportunities to build their professional statistical portfolio, connect with other students, increase their career preparedness and explore their options.
+
+__Who is it for?__ All undergraduate students in a Department of Statistical Sciences (UTSG) PoST (including those about to graduate) or who took STA130 in Fall 2020/Winter 2021.
