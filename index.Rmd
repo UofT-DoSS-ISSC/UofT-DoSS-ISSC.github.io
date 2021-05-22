@@ -1,19 +1,24 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Independent Summer Statistics Community"
+color1: "#002E69"
+color2: "#002E69"
+angle: 130
+image: "issc_circle.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: Sign up
+    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSELL2hSYbOq1Aks2VFGnb_h9UNFdSREVVRDE0V1dNRjMzWVRaREdDTk80Sy4u"
+  - label: SharePoint
+    url: "https://utoronto.sharepoint.com/sites/ArtSci-STA/ISSC/SitePages/ISSC-Home.aspx"
   - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+    url: "https://github.com/UofT-DoSS-ISSC"
+  - label: DoSS
+    url: "https://www.statistics.utoronto.ca/"
+  - label: Need help?
+    url: "mailto:liza.bolton@utoronto.ca"
 output:
-  postcards::jolla
+  postcards::onofre
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+We're excited to announce the second iteration of the _Independent Summer Statistics Community: Beyond Coursework_. Through this community, Department of Statistical Sciences student will have opportunities to build their professional statistical portfolio, connect with other students, increase their career preparedness and explore options.
+
+Who is it for? All undergraduate students in a Department of Statistical Sciences (UTSG) PoST (including those about to graduate) or who took STA130 in Fall 2020/Winter 2021.
